@@ -1,6 +1,4 @@
 
-  
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -20,7 +18,6 @@
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=cysne&theme=dark&hide_border=false"
